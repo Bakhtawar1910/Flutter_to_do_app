@@ -52,7 +52,7 @@ lib/
 
 ![Add New Task Screen](screenshots/add_new_task_screen.jpg)
 
-![Edit Task Screen](screenshots/edit_new_task_screen.jpg)
+![Edit Task Screen](screenshots/edit_task_screen.jpg)
 
 
 ## 🔮 Future Enhancements
